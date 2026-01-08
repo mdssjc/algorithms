@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-coding-patterns/two-pointers"
+	"main/two-pointers"
 )
 
 func main() {

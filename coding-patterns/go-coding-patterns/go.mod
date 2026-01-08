@@ -1,3 +1,3 @@
-module go-coding-patterns
+module main
 
 go 1.25
